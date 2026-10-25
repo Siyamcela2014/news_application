@@ -1,3 +1,4 @@
+"""Tests for the News Application."""
 
 from django.test import TestCase
 from rest_framework.test import APIClient
