@@ -1,3 +1,5 @@
+"""Serializers for converting news application data to and from JSON."""
+
 from rest_framework import serializers
 from .models import Article, User, Newsletter, Publisher
 
