@@ -42,3 +42,15 @@ error_log.txt
 
 # Sphinx documentation build files
 docs/_build/
+# Python virtual environments
+venv/
+.venv/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python generated files
+__pycache__/
+*.py[cod]
