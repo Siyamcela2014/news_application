@@ -1,0 +1,44 @@
+﻿# Python generated files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Django generated files
+staticfiles/
+media/
+*.log
+
+# Test and coverage files
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local databases and backups
+*.sqlite3
+*.db
+
+# Submission archives
+*.zip
+
+# Local error logs
+error_log.txt
+
+# Sphinx documentation build files
+docs/_build/
