@@ -58,3 +58,9 @@ __pycache__/
 
 # Sphinx generated documentation
 docs/_build/
+<<<<<<< HEAD
+=======
+
+# Generated Sphinx documentation
+docs/build/
+>>>>>>> docs
